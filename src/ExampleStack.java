@@ -1,13 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author rrizz
- */
 import java.util.*;
 public class ExampleStack {
     public static void main (String args[]) {
@@ -30,3 +21,4 @@ public class ExampleStack {
         System.out.println(st.empty());
     }
 }
+
